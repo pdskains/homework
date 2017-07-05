@@ -1,0 +1,1 @@
+alias crunchy='mkdir crunchy && cd crunchy && touch peanutbutter.txt && echo -e "Is the best!" > peanutbutter.txt && chmod a=rw peanutbutter.txt'
